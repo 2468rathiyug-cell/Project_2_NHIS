@@ -35,10 +35,8 @@ It supports:-
 🔬 Scientific Mode
 
 <img width="270" height="410" alt="Screenshot 2026-02-23 004040" src="https://github.com/user-attachments/assets/f9255593-f13d-4a7e-ad0b-72bcd0b869bf" />
-
 <img width="106" height="163" alt="Screenshot 2026-02-23 004056" src="https://github.com/user-attachments/assets/c4c7feb2-72f2-4851-867a-1d1ab10c6dfb" />
 <img width="107" height="153" alt="Screenshot 2026-02-23 004106" src="https://github.com/user-attachments/assets/dd35ddd0-3b5a-4490-8612-812d7be07608" />
-![633ffb950dc8682886119f2a-scientific-calculator-with-graphic](https://github.com/user-attachments/assets/b020c8e2-e1c2-471b-879b-0e432a3448c4)
 
 ✯Trigonometric functions
 ✯Logarithmic & exponential functions
