@@ -81,7 +81,6 @@ It supports:-
 
 💱 Currency Converter
 
-https://store-images.s-microsoft.com/image/apps.10406.9007199266262249.a621181e-d758-4873-b765-a109eec189e0.2ebca3ff-026e-4ac3-b834-a07428c41f5b
 
 <img width="270" height="415" alt="Screenshot 2026-02-23 010030" src="https://github.com/user-attachments/assets/e4be69a3-416b-4718-9945-69552a963d82" />
 
